@@ -1,0 +1,3 @@
+[submodule "Testautoupdate1"]
+	path = Testautoupdate1
+	url = git@github.com:sanjeevsinghgit/Testautoupdate1.git
